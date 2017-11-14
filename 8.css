@@ -1,0 +1,48 @@
+/* CSS for FAQ book page. */
+
+body {
+  font-size:100%;
+  background: yellowgreen url('8.jpg') no-repeat fixed top left;    
+  }
+
+
+
+h1 {    
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:yellow;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;   
+       
+      margin-top:30px;
+      border-bottom:5px solid red;
+      }
+           
+      
+ol.a { list-style-type:upper-roman; }
+
+dd.f{color:brown;}
+dd:last-child {color: red;}
+
+p >em:first-child{font-weight: bold; color: red;}
+
+      
+
+
+      
+      
+      
+     
+      
+      

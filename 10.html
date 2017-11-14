@@ -1,0 +1,70 @@
+<html>
+ <head>
+   <title>    Register   </title> 
+   <link rel="stylesheet" type="text/css" href="10.css" >
+ </head>
+
+ <body >
+  <br/>
+  <h1> Register</h1>
+  <hr>
+  
+  
+  <form method="get">
+    <fieldset >
+      <legend>Personal:</legend>
+      First name: 
+      <input type="text" name="firstname" />
+      Last name: 
+      <input type="text" name="lastname" />
+      <br/>    
+      
+      <input type="radio" name="sex" value="male" /> Male
+      <input type="radio" name="sex" value="female" /> Female  
+      <br/>        
+      
+      Address:
+      <br/>  
+      Street:
+      <input type = "text" name="street"  size="40"/>
+      <br/>
+      City:&nbsp&nbsp
+      <input type = "text" name="city"  />
+
+      State:
+      <input list="state" name="state" size ="2">
+      <datalist id="state">
+        <option value="ND">
+        <option value="MN">
+        <option value="SD">
+      </datalist>
+
+      Zip:
+      <input type = "text" name="zip" size="5" />
+    </fieldset>
+    
+    
+    <fieldset>
+      <legend>Your Insterest? </legend>     
+     <input type="checkbox" name="textbook" checked />
+       Text Book
+     <input type="checkbox" name="generalbook" checked />
+       General Book
+    </fieldset>
+       
+    <input type="submit" name="act" value="Submit" />
+     
+  </form>  
+  
+    
+  <button type="button" onclick="alert('Are you want to reset the content!')">Reset</button>
+ 
+  <br/>
+  <br/>
+  <form action = "2.html">
+    <button type="submit" >Home Page</button>
+  </form>
+  
+ </body>
+
+</html>

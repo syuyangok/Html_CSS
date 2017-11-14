@@ -1,0 +1,67 @@
+/* CSS for contact us book page. */
+
+body {
+  font-size:100%;
+  background: yellowgreen ;    
+  }
+
+
+
+
+h1 {    
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:yellow;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;   
+       
+      margin-top:30px;     
+
+
+      }
+           
+
+article {    
+
+      color:blue;
+      direction:ltr;
+      line-height:normal;
+      text-align:justify; 
+      text-decoration:none;
+
+      }
+p:first-child{
+            font-weight: bold;
+            font-size: large;
+            }
+address {
+            font-style: italic;            
+            }          
+
+time {
+            font-weight: bold;            
+            }           
+
+p#f{
+            font-weight: bold;
+            font-size: large;
+            }      
+
+span {font-weight: bold;}
+      
+      
+      
+     
+      
+      

@@ -1,0 +1,65 @@
+/* CSS for updatting book page. */
+
+body {
+  font-size:100%;
+  background: yellowgreen url('7.jpg') no-repeat fixed bottom left;    
+  }
+
+
+
+
+h1 {    
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:yellow;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;   
+       
+      margin-top:30px;
+  
+
+      }
+           
+      
+div {
+      width:70%;
+      padding:10px;    
+      margin:0px;
+
+      border-top-style:dotted;
+      border-left-style:dashed;
+      border-right-style:dashed;
+      border-bottom-style:solid;
+      
+      border-top-color:brown;
+      border-left-color:brown;
+      border-right-color:brown;
+      border-bottom-color:darkred;
+      
+      border-top-width:thick;
+      border-right-width:thin;
+      border-left-width:thin;
+      border-bottom-width:thick;
+      
+   }
+
+      
+
+
+      
+      
+      
+     
+      
+      

@@ -1,0 +1,124 @@
+/* CSS for general book page. */
+
+body{background: yellowgreen; font-size:100%;}
+
+
+img {
+    margin: 2px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width:  auto;
+    float:  right;
+    text-align: center;
+    
+    opacity:0.6;
+    filter:alpha(opacity=60);
+    
+    }
+
+
+h1 {    
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:black;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;   
+       
+      margin-top:30px;
+
+      }
+
+table, th, td { border: 2px solid darkgray; }      
+table {
+      margin-left:100px;
+      margin-right:100px;
+      margin-top:10px;
+      margin-bottom:10px;
+      
+      caption-side:bottom;
+      
+      
+      width:70%;      
+
+      
+      border-collapse:collapse;
+}     
+      
+td {padding:5px;
+     vertical-align:bottom;}    
+      
+      
+caption {    
+      font-style:normal;
+      font-variant:normal;
+      font-weight:bold;
+      font-size:1.5em;
+      font-family:Georgia;
+      
+      color:brown;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:normal;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:capitalize;
+      white-space:normal;
+      word-spacing:normal;                 
+      }
+      
+th {    
+      font-style:normal;
+      font-variant:normal;
+      font-weight:normal;
+      font-size:1.5em;
+      font-family:Georgia;
+      
+      color:blue;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:normal;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:capitalize;
+      white-space:normal;
+      word-spacing:normal;                 
+      }
+
+
+
+            
+
+a:link, a:visited   {
+    display:block;
+    font-weight:bold;
+    font-size:1.5em;
+    color:darkblue;
+    background-color:yellowgreen;
+    width:400px;
+    padding:4px;
+    text-decoration:none;
+    text-transform:uppercase;        
+      }
+      
+a:hover, a:active {
+    background-color:#7A991A;
+   }
+      
+      
+      
+     
+      
+      

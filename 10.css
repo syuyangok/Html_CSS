@@ -1,0 +1,52 @@
+/* CSS for register page. */
+
+body {
+  font-size:100%;
+  background: yellowgreen ;    
+  }
+
+
+
+
+h1 {    
+
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:yellow;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:left; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;          
+      
+
+      }
+      
+h1:before {content:url('10.jpg');}
+
+fieldset {
+          border:solid brown;
+          background-color:burlywood;
+        }
+legend {
+          font-weight:bold;
+        }           
+
+
+
+
+
+      
+      
+      
+     
+      
+      

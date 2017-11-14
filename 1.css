@@ -1,0 +1,62 @@
+/* CSS for welcome page. */
+
+body{background: yellowgreen; font-size:100%;}
+
+.center {    
+      font-style:italic;
+      font-variant:small-caps;
+      font-weight:bold;
+      font-size:3em;
+      font-family:"Times New Roman", Times, serif;
+      
+      color:yellow;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:5;
+      text-align:center; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:uppercase;
+      white-space:normal;
+      word-spacing:normal;                 
+      }
+      
+.link {    
+      font-style:italic;
+      font-variant:normal;
+      font-weight:normal;
+      font-size:1.5em;
+      font-family:Georgia;
+      
+      color:blue;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:normal;
+      text-align:left; 
+      text-decoration:none;
+      text-shadow:black;
+      text-transform:capitalize;
+      white-space:normal;
+      word-spacing:normal;                 
+      }
+      
+#foot {    
+      font:bold 1em Arial;
+      
+      color:blue;
+      direction:ltr;
+      line-height:normal;
+      letter-spacing:normal;
+      text-align:left; 
+      
+      text-decoration-line:underline;
+      text-decoration-style:dashed;
+      text-decoration-color:darkblue;     
+      
+      text-shadow:black;
+      text-transform:capitalize;
+      white-space:normal;
+      word-spacing:normal;                 
+      }      
+      
+      
